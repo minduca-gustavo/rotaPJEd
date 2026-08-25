@@ -1,0 +1,172 @@
+[
+  {
+    "Vara": "1ª Vara do Trabalho de Bauru",
+    "Dígitos": "0,2,4,6,8",
+    "Magistrado": "BRENO ORTIZ TAVARES COSTA"
+  },
+  {
+    "Vara": "1ª Vara do Trabalho de Bauru",
+    "Dígitos": "1,3,5,7,9",
+    "Magistrado": "BRENO ORTIZ TAVARES COSTA"
+  },
+  {
+    "Vara": "2ª Vara do Trabalho de Bauru",
+    "Dígitos": "0,2,4,6,8",
+    "Magistrado": "SANDRO VALERIO BODO"
+  },
+  {
+    "Vara": "2ª Vara do Trabalho de Bauru",
+    "Dígitos": "1,3,5,7,9",
+    "Magistrado": "DANIELE COMIN MARTINS"
+  },
+  {
+    "Vara": "3ª Vara do Trabalho de Bauru",
+    "Dígitos": "0,2,4,6,8",
+    "Magistrado": "LARISSA RABELLO SOUTO TAVARES COSTA"
+  },
+  {
+    "Vara": "3ª Vara do Trabalho de Bauru",
+    "Dígitos": "1,3,5,7,9",
+    "Magistrado": "LARISSA RABELLO SOUTO TAVARES COSTA"
+  },
+  {
+    "Vara": "4ª Vara do Trabalho de Bauru",
+    "Dígitos": "0,2,4,6,8",
+    "Magistrado": "MARCELO SIQUEIRA DE OLIVEIRA"
+  },
+  {
+    "Vara": "4ª Vara do Trabalho de Bauru",
+    "Dígitos": "1,3,5,7,9",
+    "Magistrado": "KARINE DA JUSTA TEIXEIRA ROCHA"
+  },
+  {
+    "Vara": "Vara do Trabalho de Botucatu",
+    "Dígitos": "0,2,4,6,8",
+    "Magistrado": "RENAN MARTINS LOPES BELUTTO"
+  },
+  {
+    "Vara": "Vara do Trabalho de Botucatu",
+    "Dígitos": "1,3,5,7,9",
+    "Magistrado": "RENAN MARTINS LOPES BELUTTO"
+  },
+  {
+    "Vara": "Vara do Trabalho de Itápolis",
+    "Dígitos": "0,2,4,6,8",
+    "Magistrado": "EDMA ALVES MOREIRA"
+  },
+  {
+    "Vara": "Vara do Trabalho de Itápolis",
+    "Dígitos": "1,3,5,7,9",
+    "Magistrado": "EDMA ALVES MOREIRA"
+  },
+  {
+    "Vara": "Vara do Trabalho de Avaré",
+    "Dígitos": "0,2,4,6,8",
+    "Magistrado": "ANDRE LUIZ MENEZES AZEVEDO SETTE"
+  },
+  {
+    "Vara": "Vara do Trabalho de Avaré",
+    "Dígitos": "1,3,5,7,9",
+    "Magistrado": "ZILAH RAMIRES FERREIRA"
+  },
+  {
+    "Vara": "Vara do Trabalho de Garça",
+    "Dígitos": "0,2,4,6,8",
+    "Magistrado": "RAFAEL MARQUES DE SETTA"
+  },
+  {
+    "Vara": "Vara do Trabalho de Garça",
+    "Dígitos": "1,3,5,7,9",
+    "Magistrado": "RAFAEL MARQUES DE SETTA"
+  },
+  {
+    "Vara": "1ª Vara do Trabalho de Jaú",
+    "Dígitos": "0,2,4,6,8",
+    "Magistrado": "LUCINEIDE ALMEIDA DE LIMA MARQUES"
+  },
+  {
+    "Vara": "1ª Vara do Trabalho de Jaú",
+    "Dígitos": "1,3,5,7,9",
+    "Magistrado": "JOSE AUGUSTO DE ALMEIDA PRADO FERREIRA DE CASTILHO"
+  },
+  {
+    "Vara": "2ª Vara do Trabalho de Jaú",
+    "Dígitos": "0,2,4,6,8",
+    "Magistrado": "ERIKA RODRIGUES PEDREUS MORETE"
+  },
+  {
+    "Vara": "2ª Vara do Trabalho de Jaú",
+    "Dígitos": "1,3,5,7,9",
+    "Magistrado": "ERIKA RODRIGUES PEDREUS MORETE"
+  },
+  {
+    "Vara": "1ª Vara do Trabalho de Lençóis Paulista",
+    "Dígitos": "0,2,4,6,8",
+    "Magistrado": "EDSON DA SILVA JUNIOR"
+  },
+  {
+    "Vara": "1ª Vara do Trabalho de Lençóis Paulista",
+    "Dígitos": "1,3,5,7,9",
+    "Magistrado": "EDSON DA SILVA JUNIOR"
+  },
+  {
+    "Vara": "2ª Vara do Trabalho de Lençóis Paulista",
+    "Dígitos": "0,2,4,6,8",
+    "Magistrado": "JULIO CESAR MARIN DO CARMO"
+  },
+  {
+    "Vara": "2ª Vara do Trabalho de Lençóis Paulista",
+    "Dígitos": "1,3,5,7,9",
+    "Magistrado": "JULIO CESAR MARIN DO CARMO"
+  },
+  {
+    "Vara": "1ª Vara do Trabalho de Marília",
+    "Dígitos": "0,2,4,6,8",
+    "Magistrado": "ALEXANDRE GARCIA MULLER"
+  },
+  {
+    "Vara": "1ª Vara do Trabalho de Marília",
+    "Dígitos": "1,3,5,7,9",
+    "Magistrado": "ALEXANDRE GARCIA MULLER"
+  },
+  {
+    "Vara": "2ª Vara do Trabalho de Marília",
+    "Dígitos": "0,2,4,6,8",
+    "Magistrado": "FLAVIO HENRIQUE GARCIA COELHO"
+  },
+  {
+    "Vara": "2ª Vara do Trabalho de Marília",
+    "Dígitos": "1,3,5,7,9",
+    "Magistrado": "FLAVIO HENRIQUE GARCIA COELHO"
+  },
+  {
+    "Vara": "Vara do Trabalho de Ourinhos",
+    "Dígitos": "0,2,4,6,8",
+    "Magistrado": "MARIANGELA FONSECA"
+  },
+  {
+    "Vara": "Vara do Trabalho de Ourinhos",
+    "Dígitos": "1,3,5,7,9",
+    "Magistrado": "MARIANGELA FONSECA"
+  },
+  {
+    "Vara": "Vara do Trabalho de Pederneiras",
+    "Dígitos": "0,2,4,6,8",
+    "Magistrado": "PAULO BUENO CORDEIRO DE ALMEIDA PRADO BAUER"
+  },
+  {
+    "Vara": "Vara do Trabalho de Pederneiras",
+    "Dígitos": "1,3,5,7,9",
+    "Magistrado": "PAULO BUENO CORDEIRO DE ALMEIDA PRADO BAUER"
+  },
+  {
+    "Vara": "Vara do Trabalho de Santa Cruz do Rio Pardo",
+    "Dígitos": "0,2,4,6,8",
+    "Magistrado": "MARIANGELA FONSECA"
+  },
+  {
+    "Vara": "Vara do Trabalho de Santa Cruz do Rio Pardo",
+    "Dígitos": "1,3,5,7,9",
+    "Magistrado": "MARIANGELA FONSECA"
+  }
+]
