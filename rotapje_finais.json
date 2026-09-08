@@ -1,172 +1,172 @@
 [
   {
-    "Vara": "1ª Vara do Trabalho de Bauru",
-    "Dígitos": "0,2,4,6,8",
-    "Magistrado": "BRENO ORTIZ TAVARES COSTA"
+    "vara": "1ª Vara do Trabalho de Bauru",
+    "digitos": "0,2,4,6,8",
+    "magistrado": "BRENO ORTIZ TAVARES COSTA"
   },
   {
-    "Vara": "1ª Vara do Trabalho de Bauru",
-    "Dígitos": "1,3,5,7,9",
-    "Magistrado": "BRENO ORTIZ TAVARES COSTA"
+    "vara": "1ª Vara do Trabalho de Bauru",
+    "digitos": "1,3,5,7,9",
+    "magistrado": "BRENO ORTIZ TAVARES COSTA"
   },
   {
-    "Vara": "2ª Vara do Trabalho de Bauru",
-    "Dígitos": "0,2,4,6,8",
-    "Magistrado": "SANDRO VALERIO BODO"
+    "vara": "2ª Vara do Trabalho de Bauru",
+    "digitos": "0,2,4,6,8",
+    "magistrado": "SANDRO VALERIO BODO"
   },
   {
-    "Vara": "2ª Vara do Trabalho de Bauru",
-    "Dígitos": "1,3,5,7,9",
-    "Magistrado": "DANIELE COMIN MARTINS"
+    "vara": "2ª Vara do Trabalho de Bauru",
+    "digitos": "1,3,5,7,9",
+    "magistrado": "DANIELE COMIN MARTINS"
   },
   {
-    "Vara": "3ª Vara do Trabalho de Bauru",
-    "Dígitos": "0,2,4,6,8",
-    "Magistrado": "GABRIEL CALVET DE ALMEIDA"
+    "vara": "3ª Vara do Trabalho de Bauru",
+    "digitos": "0,2,4,6,8",
+    "magistrado": "GABRIEL CALVET DE ALMEIDA"
   },
   {
-    "Vara": "3ª Vara do Trabalho de Bauru",
-    "Dígitos": "1,3,5,7,9",
-    "Magistrado": "LARISSA RABELLO SOUTO TAVARES COSTA"
+    "vara": "3ª Vara do Trabalho de Bauru",
+    "digitos": "1,3,5,7,9",
+    "magistrado": "LARISSA RABELLO SOUTO TAVARES COSTA"
   },
   {
-    "Vara": "4ª Vara do Trabalho de Bauru",
-    "Dígitos": "0,2,4,6,8",
-    "Magistrado": "MARCELO SIQUEIRA DE OLIVEIRA"
+    "vara": "4ª Vara do Trabalho de Bauru",
+    "digitos": "0,2,4,6,8",
+    "magistrado": "MARCELO SIQUEIRA DE OLIVEIRA"
   },
   {
-    "Vara": "4ª Vara do Trabalho de Bauru",
-    "Dígitos": "1,3,5,7,9",
-    "Magistrado": "MARCELO SIQUEIRA DE OLIVEIRA"
+    "vara": "4ª Vara do Trabalho de Bauru",
+    "digitos": "1,3,5,7,9",
+    "magistrado": "MARCELO SIQUEIRA DE OLIVEIRA"
   },
   {
-    "Vara": "Vara do Trabalho de Botucatu",
-    "Dígitos": "0,2,4,6,8",
-    "Magistrado": "RENATA CAROLINA CARBONE STAMPONI"
+    "vara": "Vara do Trabalho de Botucatu",
+    "digitos": "0,2,4,6,8",
+    "magistrado": "RENATA CAROLINA CARBONE STAMPONI"
   },
   {
-    "Vara": "Vara do Trabalho de Botucatu",
-    "Dígitos": "1,3,5,7,9",
-    "Magistrado": "RENAN MARTINS LOPES BELUTTO"
+    "vara": "Vara do Trabalho de Botucatu",
+    "digitos": "1,3,5,7,9",
+    "magistrado": "RENAN MARTINS LOPES BELUTTO"
   },
   {
-    "Vara": "Vara do Trabalho de Itápolis",
-    "Dígitos": "0,2,4,6,8",
-    "Magistrado": "LUCAS CILLI HORTA"
+    "vara": "Vara do Trabalho de Itápolis",
+    "digitos": "0,2,4,6,8",
+    "magistrado": "LUCAS CILLI HORTA"
   },
   {
-    "Vara": "Vara do Trabalho de Itápolis",
-    "Dígitos": "1,3,5,7,9",
-    "Magistrado": "EDMA ALVES MOREIRA"
+    "vara": "Vara do Trabalho de Itápolis",
+    "digitos": "1,3,5,7,9",
+    "magistrado": "EDMA ALVES MOREIRA"
   },
   {
-    "Vara": "Vara do Trabalho de Avaré",
-    "Dígitos": "0,2,4,6,8",
-    "Magistrado": "ANDRE LUIZ MENEZES AZEVEDO SETTE"
+    "vara": "Vara do Trabalho de Avaré",
+    "digitos": "0,2,4,6,8",
+    "magistrado": "ANDRE LUIZ MENEZES AZEVEDO SETTE"
   },
   {
-    "Vara": "Vara do Trabalho de Avaré",
-    "Dígitos": "1,3,5,7,9",
-    "Magistrado": "ZILAH RAMIRES FERREIRA"
+    "vara": "Vara do Trabalho de Avaré",
+    "digitos": "1,3,5,7,9",
+    "magistrado": "ZILAH RAMIRES FERREIRA"
   },
   {
-    "Vara": "Vara do Trabalho de Garça",
-    "Dígitos": "0,2,4,6,8",
-    "Magistrado": "RAFAEL MARQUES DE SETTA"
+    "vara": "Vara do Trabalho de Garça",
+    "digitos": "0,2,4,6,8",
+    "magistrado": "RAFAEL MARQUES DE SETTA"
   },
   {
-    "Vara": "Vara do Trabalho de Garça",
-    "Dígitos": "1,3,5,7,9",
-    "Magistrado": "RAFAEL MARQUES DE SETTA"
+    "vara": "Vara do Trabalho de Garça",
+    "digitos": "1,3,5,7,9",
+    "magistrado": "RAFAEL MARQUES DE SETTA"
   },
   {
-    "Vara": "1ª Vara do Trabalho de Jaú",
-    "Dígitos": "0,2,4,6,8",
-    "Magistrado": "LUCINEIDE ALMEIDA DE LIMA MARQUES"
+    "vara": "1ª Vara do Trabalho de Jaú",
+    "digitos": "0,2,4,6,8",
+    "magistrado": "LUCINEIDE ALMEIDA DE LIMA MARQUES"
   },
   {
-    "Vara": "1ª Vara do Trabalho de Jaú",
-    "Dígitos": "1,3,5,7,9",
-    "Magistrado": "JOSE AUGUSTO DE ALMEIDA PRADO FERREIRA DE CASTILHO"
+    "vara": "1ª Vara do Trabalho de Jaú",
+    "digitos": "1,3,5,7,9",
+    "magistrado": "JOSE AUGUSTO DE ALMEIDA PRADO FERREIRA DE CASTILHO"
   },
   {
-    "Vara": "2ª Vara do Trabalho de Jaú",
-    "Dígitos": "0,2,4,6,8",
-    "Magistrado": "ERIKA RODRIGUES PEDREUS MORETE"
+    "vara": "2ª Vara do Trabalho de Jaú",
+    "digitos": "0,2,4,6,8",
+    "magistrado": "ERIKA RODRIGUES PEDREUS MORETE"
   },
   {
-    "Vara": "2ª Vara do Trabalho de Jaú",
-    "Dígitos": "1,3,5,7,9",
-    "Magistrado": "ERIKA RODRIGUES PEDREUS MORETE"
+    "vara": "2ª Vara do Trabalho de Jaú",
+    "digitos": "1,3,5,7,9",
+    "magistrado": "ERIKA RODRIGUES PEDREUS MORETE"
   },
   {
-    "Vara": "1ª Vara do Trabalho de Lençóis Paulista",
-    "Dígitos": "0,2,4,6,8",
-    "Magistrado": "EDSON DA SILVA JUNIOR"
+    "vara": "1ª Vara do Trabalho de Lençóis Paulista",
+    "digitos": "0,2,4,6,8",
+    "magistrado": "EDSON DA SILVA JUNIOR"
   },
   {
-    "Vara": "1ª Vara do Trabalho de Lençóis Paulista",
-    "Dígitos": "1,3,5,7,9",
-    "Magistrado": "EDSON DA SILVA JUNIOR"
+    "vara": "1ª Vara do Trabalho de Lençóis Paulista",
+    "digitos": "1,3,5,7,9",
+    "magistrado": "EDSON DA SILVA JUNIOR"
   },
   {
-    "Vara": "2ª Vara do Trabalho de Lençóis Paulista",
-    "Dígitos": "0,2,4,6,8",
-    "Magistrado": "JULIO CESAR MARIN DO CARMO"
+    "vara": "2ª Vara do Trabalho de Lençóis Paulista",
+    "digitos": "0,2,4,6,8",
+    "magistrado": "JULIO CESAR MARIN DO CARMO"
   },
   {
-    "Vara": "2ª Vara do Trabalho de Lençóis Paulista",
-    "Dígitos": "1,3,5,7,9",
-    "Magistrado": "JULIO CESAR MARIN DO CARMO"
+    "vara": "2ª Vara do Trabalho de Lençóis Paulista",
+    "digitos": "1,3,5,7,9",
+    "magistrado": "JULIO CESAR MARIN DO CARMO"
   },
   {
-    "Vara": "1ª Vara do Trabalho de Marília",
-    "Dígitos": "0,2,4,6,8",
-    "Magistrado": "ALEXANDRE GARCIA MULLER"
+    "vara": "1ª Vara do Trabalho de Marília",
+    "digitos": "0,2,4,6,8",
+    "magistrado": "ALEXANDRE GARCIA MULLER"
   },
   {
-    "Vara": "1ª Vara do Trabalho de Marília",
-    "Dígitos": "1,3,5,7,9",
-    "Magistrado": "ALEXANDRE GARCIA MULLER"
+    "vara": "1ª Vara do Trabalho de Marília",
+    "digitos": "1,3,5,7,9",
+    "magistrado": "ALEXANDRE GARCIA MULLER"
   },
   {
-    "Vara": "2ª Vara do Trabalho de Marília",
-    "Dígitos": "0,2,4,6,8",
-    "Magistrado": "FLAVIO HENRIQUE GARCIA COELHO"
+    "vara": "2ª Vara do Trabalho de Marília",
+    "digitos": "0,2,4,6,8",
+    "magistrado": "FLAVIO HENRIQUE GARCIA COELHO"
   },
   {
-    "Vara": "2ª Vara do Trabalho de Marília",
-    "Dígitos": "1,3,5,7,9",
-    "Magistrado": "FLAVIO HENRIQUE GARCIA COELHO"
+    "vara": "2ª Vara do Trabalho de Marília",
+    "digitos": "1,3,5,7,9",
+    "magistrado": "FLAVIO HENRIQUE GARCIA COELHO"
   },
   {
-    "Vara": "Vara do Trabalho de Ourinhos",
-    "Dígitos": "0,2,4,6,8",
-    "Magistrado": "MARIANGELA FONSECA"
+    "vara": "Vara do Trabalho de Ourinhos",
+    "digitos": "0,2,4,6,8",
+    "magistrado": "MARIANGELA FONSECA"
   },
   {
-    "Vara": "Vara do Trabalho de Ourinhos",
-    "Dígitos": "1,3,5,7,9",
-    "Magistrado": "MARIANGELA FONSECA"
+    "vara": "Vara do Trabalho de Ourinhos",
+    "digitos": "1,3,5,7,9",
+    "magistrado": "MARIANGELA FONSECA"
   },
   {
-    "Vara": "Vara do Trabalho de Pederneiras",
-    "Dígitos": "0,2,4,6,8",
-    "Magistrado": "ERIKA RODRIGUES PEDREUS MORETE"
+    "vara": "Vara do Trabalho de Pederneiras",
+    "digitos": "0,2,4,6,8",
+    "magistrado": "ERIKA RODRIGUES PEDREUS MORETE"
   },
   {
-    "Vara": "Vara do Trabalho de Pederneiras",
-    "Dígitos": "1,3,5,7,9",
-    "Magistrado": "ERIKA RODRIGUES PEDREUS MORETE"
+    "vara": "Vara do Trabalho de Pederneiras",
+    "digitos": "1,3,5,7,9",
+    "magistrado": "ERIKA RODRIGUES PEDREUS MORETE"
   },
   {
-    "Vara": "Vara do Trabalho de Santa Cruz do Rio Pardo",
-    "Dígitos": "0,2,4,6,8   RENATO CLEMENTE PEREIRA",
-    "Magistrado": ""
+    "vara": "Vara do Trabalho de Santa Cruz do Rio Pardo",
+    "digitos": "0,2,4,6,8",
+    "magistrado": "RENATO CLEMENTE PEREIRA"
   },
   {
-    "Vara": "Vara do Trabalho de Santa Cruz do Rio Pardo",
-    "Dígitos": "1,3,5,7,9",
-    "Magistrado": "RENATO CLEMENTE PEREIRA"
+    "vara": "Vara do Trabalho de Santa Cruz do Rio Pardo",
+    "digitos": "1,3,5,7,9",
+    "magistrado": "RENATO CLEMENTE PEREIRA"
   }
 ]
