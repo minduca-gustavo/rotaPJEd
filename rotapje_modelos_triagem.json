@@ -15,9 +15,9 @@
     },
     {
         "sala": "ANDRE LUIZ MENEZES AZEVEDO SETTE",
-        "Inicial por videoconferência": "",
+        "Inicial por videoconferência":{"despacho":"RotaID1247212"},
         "Instrução por videoconferência": "",
-        "Una por videoconferência (rito sumaríssimo)": ""
+        "Una por videoconferência (rito sumaríssimo)":{"despacho":"RotaID1247216"}
     },
     {
         "sala": "APARECIDO BATISTA DE OLIVEIRA (Simetria 15)"
