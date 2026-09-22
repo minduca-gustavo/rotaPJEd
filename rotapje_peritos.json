@@ -1,0 +1,1015 @@
+[
+    {
+        "nome": "EVERTON JOSE PALMA",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Bauru1a",
+            "Bauru2a",
+            "Bauru3a",
+            "Bauru4a",
+            "Itápolis",
+            "Jaú2a",
+            "Lençóis1a",
+            "Pederneiras",
+            "Santa Cruz"
+        ]
+    },
+    {
+        "nome": "CHANG YUAN CHIANG",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Bauru1a",
+            "Bauru2a",
+            "Bauru3a",
+            "Jaú2a"
+        ]
+    },
+    {
+        "nome": "MATHEUS PUNTEL DE ALMEIDA",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Bauru2a"
+        ]
+    },
+    {
+        "nome": "ROBERTO DE ANDRADE",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Bauru1a",
+            "Bauru2a"
+        ]
+    },
+    {
+        "nome": "RODRIGO FRANCESCHI",
+        "especialidades": [
+            "Médica"
+        ],
+        "varas": [
+            "Bauru1a",
+            "Botucatu",
+            "Jaú1a",
+            "Lençóis1a",
+            "Lençóis2a"
+        ]
+    },
+    {
+        "nome": "ANA CRISTINA RADUAN RIBEIRO",
+        "especialidades": [
+            "Médica"
+        ],
+        "varas": [
+            "Bauru2a",
+            "Bauru3a"
+        ]
+    },
+    {
+        "nome": "ANTONIO BARBOSA NOBRE JUNIOR",
+        "especialidades": [
+            "Médica"
+        ],
+        "varas": [
+            "Bauru2a",
+            "Bauru3a"
+        ]
+    },
+    {
+        "nome": "NIVALDO PENTEADO BAUTZ",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Bauru1a",
+            "Bauru2a",
+            "Bauru3a",
+            "Bauru4a",
+            "Jaú1a",
+            "Jaú2a",
+            "Lençóis1a",
+            "Lençóis2a"
+        ]
+    },
+    {
+        "nome": "VICENTE PAULO COSTA GRIZZO",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Bauru1a",
+            "Bauru4a"
+        ]
+    },
+    {
+        "nome": "PAULO ROGERIO PICHELLI",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Bauru1a",
+            "Bauru2a",
+            "Bauru4a"
+        ]
+    },
+    {
+        "nome": "SLEN EUGENIA NASCIMENTO",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Bauru3a",
+            "Bauru4a"
+        ]
+    },
+    {
+        "nome": "VALDIR APARECIDO DOMINGUES",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Bauru4a"
+        ]
+    },
+    {
+        "nome": "JOYCE GIMENES BRANDÃO PÓPOLO",
+        "especialidades": [
+            "Médica"
+        ],
+        "varas": [
+            "Avaré",
+            "Bauru1a",
+            "Bauru3a",
+            "Bauru4a",
+            "Jaú2a"
+        ]
+    },
+    {
+        "nome": "MARCELO BRESSAN ROCHA VIANNA",
+        "especialidades": [
+            "Médica"
+        ],
+        "varas": [
+            "Bauru1a",
+            "Bauru2a",
+            "Bauru3a",
+            "Bauru4a"
+        ]
+    },
+    {
+        "nome": "MARCELLO TEIXEIRA CASTIGLIA",
+        "especialidades": [
+            "Médica"
+        ],
+        "varas": [
+            "Bauru4a",
+            "Itápolis",
+            "Jaú1a"
+        ]
+    },
+    {
+        "nome": "EDMILSON FERREIRA DE CARVALHO",
+        "especialidades": [
+            "Médica"
+        ],
+        "varas": [
+            "Bauru2a",
+            "Bauru3a",
+            "Bauru4a"
+        ]
+    },
+    {
+        "nome": "GUSTAVO BERBEL FAIDIGA",
+        "especialidades": [
+            "Médica"
+        ],
+        "varas": [
+            "Bauru1a",
+            "Bauru3a",
+            "Bauru4a",
+            "Botucatu",
+            "Itápolis",
+            "Jaú2a",
+            "Pederneiras",
+            "Santa Cruz"
+        ]
+    },
+    {
+        "nome": "OSVALDO SERGIO ORTEGA",
+        "especialidades": [
+            "Médica"
+        ],
+        "varas": [
+            "Bauru1a",
+            "Bauru2a",
+            "Bauru3a",
+            "Bauru4a",
+            "Jaú1a",
+            "Jaú2a"
+        ]
+    },
+    {
+        "nome": "NEDER MOUSTAFA YAKTINE",
+        "especialidades": [
+            "Médica"
+        ],
+        "varas": [
+            "Bauru3a",
+            "Bauru4a",
+            "Jaú2a",
+            "Lençóis1a",
+            "Lençóis2a"
+        ]
+    },
+    {
+        "nome": "THALLES PORFIRIO DUTRA",
+        "especialidades": [
+            "Ergonomia"
+        ],
+        "varas": [
+            "Bauru4a"
+        ]
+    },
+    {
+        "nome": "DANIEL DA SILVA RUFINO",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Marília2a"
+        ]
+    },
+    {
+        "nome": "Reinaldo Bordim Junior",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Marília1a",
+            "Marília2a"
+        ]
+    },
+    {
+        "nome": "Dennis Mychel de Castro",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Marília2a"
+        ]
+    },
+    {
+        "nome": "Carlos Eduardo Mattioli",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Botucatu",
+            "Marília1a",
+            "Marília2a"
+        ]
+    },
+    {
+        "nome": "DANIEL RIBEIRO PENTEADO",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Lençóis1a",
+            "Lençóis2a",
+            "Marília1a",
+            "Marília2a"
+        ]
+    },
+    {
+        "nome": "MARCELO LUIS SANTILLI",
+        "especialidades": [
+            "Médica"
+        ],
+        "varas": [
+            "Marília2a"
+        ]
+    },
+    {
+        "nome": "CRISTIANO HAYOSHI CHOJI",
+        "especialidades": [
+            "Médica"
+        ],
+        "varas": [
+            "Marília1a",
+            "Marília2a"
+        ]
+    },
+    {
+        "nome": "MICHEL DE LARA LIMA",
+        "especialidades": [
+            "Ergonomia"
+        ],
+        "varas": [
+            "Marília1a",
+            "Marília2a",
+            "Santa Cruz"
+        ]
+    },
+    {
+        "nome": "Fabiano Carvalho Duarte",
+        "especialidades": [
+            "Grafotécnica"
+        ],
+        "varas": [
+            "Marília2a"
+        ]
+    },
+    {
+        "nome": "JOEL ZANARDO",
+        "especialidades": [
+            "Contábil"
+        ],
+        "varas": [
+            "Marília1a",
+            "Marília2a"
+        ]
+    },
+    {
+        "nome": "LUIZ ROBERTO BAPTISTELLA DE OLIVEIRA",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Botucatu"
+        ]
+    },
+    {
+        "nome": "GREGORY FELIPE CABRAL TORINI",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Avaré",
+            "Botucatu",
+            "Jaú1a",
+            "Jaú2a",
+            "Lençóis2a",
+            "Ourinhos",
+            "Pederneiras"
+        ]
+    },
+    {
+        "nome": "JOÃO HENRIQUE FERREIRA DIGNANI",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Avaré",
+            "Bauru2a",
+            "Botucatu",
+            "Jaú1a"
+        ]
+    },
+    {
+        "nome": "ADEMILSON ALVES CORREIA",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Botucatu"
+        ]
+    },
+    {
+        "nome": "ROBERTO VAZ PIESCO",
+        "especialidades": [
+            "Médica"
+        ],
+        "varas": [
+            "Botucatu",
+            "Lençóis1a",
+            "Lençóis2a"
+        ]
+    },
+    {
+        "nome": "LAERT JOSE BARUZZO SAMPAIO",
+        "especialidades": [
+            "Grafotécnica"
+        ],
+        "varas": [
+            "Bauru4a"
+        ]
+    },
+    {
+        "nome": "RENAN SANTOS GAMA",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Avaré",
+            "Jaú1a"
+        ]
+    },
+    {
+        "nome": "EDIVÂNIO BARROS OLIVEIRA",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Avaré"
+        ]
+    },
+    {
+        "nome": "CARLOS EDUARDO POLASTRO MENDES FERNANDES",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Avaré"
+        ]
+    },
+    {
+        "nome": "ANA CAROLINE ALVES FERNANDES POÇARLI",
+        "especialidades": [
+            "Médica"
+        ],
+        "varas": [
+            "Avaré"
+        ]
+    },
+    {
+        "nome": "José Augusto Rodrigues Massabki",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Bauru3a"
+        ]
+    },
+    {
+        "nome": "Murilo Bertocco Meirelles",
+        "especialidades": [
+            "Médica"
+        ],
+        "varas": [
+            "Marília1a",
+            "Marília2a"
+        ]
+    },
+    {
+        "nome": "Roberta Oliveira Lança",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Bauru1a"
+        ]
+    },
+    {
+        "nome": "JOSE BRAULIO ROSA ARRUDA",
+        "especialidades": [
+            "Médica"
+        ],
+        "varas": [
+            "Ourinhos"
+        ]
+    },
+    {
+        "nome": "MICHELLE DORNFELD ARRUDA",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Ourinhos"
+        ]
+    },
+    {
+        "nome": "MARCELO APARECIDO CIARAMELLO",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Ourinhos"
+        ]
+    },
+    {
+        "nome": "GERALDO NOBILE",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Santa Cruz"
+        ]
+    },
+    {
+        "nome": "TALITA DA SILVEIRA CAMPOS TEIXEIRA",
+        "especialidades": [
+            "Ergonomia"
+        ],
+        "varas": [
+            "Bauru3a",
+            "Bauru4a"
+        ]
+    },
+    {
+        "nome": "FÚLVIO JUNQUEIRA",
+        "especialidades": [
+            "Grafotécnica",
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Jaú1a",
+            "Lençóis2a"
+        ]
+    },
+    {
+        "nome": "GIL MONTEIRO NOVO",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Lençóis2a"
+        ]
+    },
+    {
+        "nome": "CARLOS AUGUSTO ANGELICI",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Lençóis2a"
+        ]
+    },
+    {
+        "nome": "MARCOS RUBINO",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Jaú2a",
+            "Lençóis2a"
+        ]
+    },
+    {
+        "nome": "LEONARDO MARTINS PEREIRA",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Bauru1a",
+            "Lençóis2a"
+        ]
+    },
+    {
+        "nome": "NIVALDO CHIQUIERI PAES",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Bauru1a",
+            "Lençóis2a"
+        ]
+    },
+    {
+        "nome": "NELSON ALOISI FASSONI",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Bauru2a",
+            "Lençóis2a"
+        ]
+    },
+    {
+        "nome": "ORLANDO CREDIDIO FILHO",
+        "especialidades": [
+            "Médica"
+        ],
+        "varas": [
+            "Lençóis2a"
+        ]
+    },
+    {
+        "nome": "Altair Aparecido Angelo de Amorin (Tem Aparelho de Vibração) (Exceto Sams e Santa Casa)",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Itápolis"
+        ]
+    },
+    {
+        "nome": "Luiz Pedro Basílio",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Itápolis"
+        ]
+    },
+    {
+        "nome": "Eduardo Borges Soares",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Itápolis"
+        ]
+    },
+    {
+        "nome": "Cristian Jober Siqueira (tem aparelho de vibração)",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Itápolis"
+        ]
+    },
+    {
+        "nome": "Monise Ellen Barelli",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Itápolis"
+        ]
+    },
+    {
+        "nome": "RENATA CRISTINA GONÇALVES DE FREITAS",
+        "especialidades": [
+            "Ergonomia"
+        ],
+        "varas": [
+            "Itápolis"
+        ]
+    },
+    {
+        "nome": "ROBERTO JORGE",
+        "especialidades": [
+            "Médica"
+        ],
+        "varas": [
+            "Itápolis"
+        ]
+    },
+    {
+        "nome": "Manuel Castro Lahoz",
+        "especialidades": [
+            "Médica"
+        ],
+        "varas": [
+            "Itápolis"
+        ]
+    },
+    {
+        "nome": "HUGO YUUKI WAKIYAMA",
+        "especialidades": [
+            "Grafotécnica"
+        ],
+        "varas": [
+            "Itápolis"
+        ]
+    },
+    {
+        "nome": "Antonio Carlos Pastori",
+        "especialidades": [
+            "Contábil"
+        ],
+        "varas": [
+            "Itápolis"
+        ]
+    },
+    {
+        "nome": "ADRIANA BINATTO SCHAER",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Garça"
+        ]
+    },
+    {
+        "nome": "PEDRO ROBERTO DE ANDRADE JUNIOR",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Garça"
+        ]
+    },
+    {
+        "nome": "AHMAD ABDUL LATIF HAMZE",
+        "especialidades": [
+            "Médica"
+        ],
+        "varas": [
+            "Garça"
+        ]
+    },
+    {
+        "nome": "Wong Kum Yuen",
+        "especialidades": [
+            "Médica"
+        ],
+        "varas": [
+            "Itápolis"
+        ]
+    },
+    {
+        "nome": "Luiz Moreschi Neto",
+        "especialidades": [
+            "Médica"
+        ],
+        "varas": [
+            "Jaú1a",
+            "Jaú2a"
+        ]
+    },
+    {
+        "nome": "Sergio Luis Ribeiro Canuto",
+        "especialidades": [
+            "Médica"
+        ],
+        "varas": [
+            "Jaú2a",
+            "Lençóis1a"
+        ]
+    },
+    {
+        "nome": "JOSE ROBERTO ROCHA",
+        "especialidades": [
+            "Ergonomia",
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Jaú1a"
+        ]
+    },
+    {
+        "nome": "LUIZ AUGUSTO SAMPAIO GONZAGA FILHO",
+        "especialidades": [
+            "Médica"
+        ],
+        "varas": [
+            "Jaú2a"
+        ]
+    },
+    {
+        "nome": "Daniel Humberto de Freitas",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Jaú2a"
+        ]
+    },
+    {
+        "nome": "Jameson Wagner Battochio",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Jaú2a"
+        ]
+    },
+    {
+        "nome": "Luis Ricardo Spirito",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Jaú2a"
+        ]
+    },
+    {
+        "nome": "Renato José Miranda Braga",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Jaú1a",
+            "Jaú2a"
+        ]
+    },
+    {
+        "nome": "Thiago Ribeiro Ramalho Rosa",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Jaú2a"
+        ]
+    },
+    {
+        "nome": "Vinicius Vechi",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Jaú2a"
+        ]
+    },
+    {
+        "nome": "Samuel de Oliveira Raia",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Jaú2a"
+        ]
+    },
+    {
+        "nome": "Fabio Andre Bernardo",
+        "especialidades": [
+            "Grafotécnica"
+        ],
+        "varas": [
+            "Jaú1a",
+            "Jaú2a"
+        ]
+    },
+    {
+        "nome": "Carlos Eduardo Feijó",
+        "especialidades": [
+            "Contábil"
+        ],
+        "varas": [
+            "Jaú2a"
+        ]
+    },
+    {
+        "nome": "Erica Cristina Garbin Pizzinato",
+        "especialidades": [
+            "Contábil"
+        ],
+        "varas": [
+            "Jaú2a"
+        ]
+    },
+    {
+        "nome": "José Luiz Marconi",
+        "especialidades": [
+            "Contábil"
+        ],
+        "varas": [
+            "Jaú2a"
+        ]
+    },
+    {
+        "nome": "MARCELO ENRICO SAMPAR PALLONE",
+        "especialidades": [
+            "Contábil"
+        ],
+        "varas": [
+            "Jaú2a"
+        ]
+    },
+    {
+        "nome": "José Renato Baptista",
+        "especialidades": [
+            "Contábil"
+        ],
+        "varas": [
+            "Jaú2a"
+        ]
+    },
+    {
+        "nome": "Raquel Alleoni Tararam",
+        "especialidades": [
+            "Ergonomia"
+        ],
+        "varas": [
+            "Jaú2a"
+        ]
+    },
+    {
+        "nome": "LESSANDRA DE OLIVEIRA BROCCA CARNEIRO",
+        "especialidades": [
+            "Ergonomia"
+        ],
+        "varas": [
+            "Jaú2a"
+        ]
+    },
+    {
+        "nome": "Ana Luiza Marchi Spoldario",
+        "especialidades": [
+            "Ergonomia"
+        ],
+        "varas": [
+            "Jaú2a"
+        ]
+    },
+    {
+        "nome": "José Alves Neto",
+        "especialidades": [
+            "Intérprete de Linguas"
+        ],
+        "varas": [
+            "Jaú2a"
+        ]
+    },
+    {
+        "nome": "Mirna Schneider Braziolli",
+        "especialidades": [
+            "Intérprete de Linguas"
+        ],
+        "varas": [
+            "Jaú2a"
+        ]
+    },
+    {
+        "nome": "Mila Refundini Santiago Denadai",
+        "especialidades": [
+            "Fonoaudiologia"
+        ],
+        "varas": [
+            "Jaú2a"
+        ]
+    },
+    {
+        "nome": "Marco Aurélio Rabelo de Paula",
+        "especialidades": [
+            "Grafotécnica"
+        ],
+        "varas": [
+            "Bauru1a",
+            "Bauru2a",
+            "Bauru3a"
+        ]
+    },
+    {
+        "nome": "MAURICIO PIMENTEL BERGAMASCHI",
+        "especialidades": [
+            "Grafotécnica"
+        ],
+        "varas": [
+            "Bauru1a",
+            "Bauru2a",
+            "Bauru3a"
+        ]
+    },
+    {
+        "nome": "Tiago Ferreira Isabel",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Jaú1a"
+        ]
+    },
+    {
+        "nome": "EDGAR SALLUM BULL",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Jaú1a"
+        ]
+    },
+    {
+        "nome": "MARILIA SALLUM BULL",
+        "especialidades": [
+            "Médica"
+        ],
+        "varas": [
+            "Jaú1a"
+        ]
+    },
+    {
+        "nome": "JOAO CARLOS VICHETI",
+        "especialidades": [
+            "Ergonomia"
+        ],
+        "varas": [
+            "Marília2a"
+        ]
+    },
+    {
+        "nome": "JOSE CARLOS MARTINI",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Jaú1a"
+        ]
+    },
+    {
+        "nome": "Miriam Garcia Cirlinas Visin",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Marília2a"
+        ]
+    },
+    {
+        "nome": "VITOR JARDIM GIARETA CONTI",
+        "especialidades": [
+            "Insalubridade/Periculosidade"
+        ],
+        "varas": [
+            "Avaré"
+        ]
+    }
+]
