@@ -1,182 +1,177 @@
 [
   {
     "JUIZ": "ANDRE LUIZ MENEZES AZEVEDO SETTE",
-    "SECRETARIO": "Debora Cardoso Galenti",
+    "SECRETÁRIO": "",
     "ASSISTENTE": "Jorge Alberto Merheje Sernaglia"
   },
   {
     "JUIZ": "ZILAH RAMIRES FERREIRA",
-    "SECRETARIO": "Marcos Eduardo Nunes",
+    "SECRETÁRIO": "Marcos Eduardo Nunes",
     "ASSISTENTE": "Sharon Claro de Oliveira Moraes"
   },
   {
     "JUIZ": "BRENO ORTIZ TAVARES COSTA",
-    "SECRETARIO": "Fernanda Beluca Vaz",
+    "SECRETÁRIO": "Fernanda Beluca Vaz",
     "ASSISTENTE": "Marcia Maria Domingues Real Swensson"
   },
   {
     "JUIZ": "SANDRO VALÉRIO BODO",
-    "SECRETARIO": "Olavo Antonetti",
+    "SECRETÁRIO": "Olavo Antonetti",
     "ASSISTENTE": "Jose Angelo Bertini"
   },
   {
     "JUIZ": "DANIELE COMIN MARTINS",
-    "SECRETARIO": "Denise Cristina da Silva",
+    "SECRETÁRIO": "Denise Cristina da Silva",
     "ASSISTENTE": "Camila Carvalho de Oliveira Cavalieri"
   },
   {
     "JUIZ": "GABRIEL CALVET DE ALMEIDA",
-    "SECRETARIO": "Nathalia Reche Alves Galli",
+    "SECRETÁRIO": "Nathalia Reche Alves Galli",
     "ASSISTENTE": "Daieni de Sousa Nenespolo"
   },
   {
     "JUIZ": "LARISSA RABELLO SOUTO TAVARES COSTA",
-    "SECRETARIO": "Gerlucia Oliveira Arakaki",
+    "SECRETÁRIO": "Gerlucia Oliveira Arakaki",
     "ASSISTENTE": "Joyce Evelin Maia Braga"
   },
   {
     "JUIZ": "MARCELO SIQUEIRA DE OLIVEIRA",
-    "SECRETARIO": "Carlos Augusto Lodeiro de Mello",
+    "SECRETÁRIO": "Carlos Augusto Lodeiro de Mello",
     "ASSISTENTE": "Antonia Patricia Alves Belleze"
   },
   {
     "JUIZ": "KARINE DA JUSTA TEIXEIRA ROCHA",
-    "SECRETARIO": "Lenita Maria Rafael Bonasorte",
+    "SECRETÁRIO": "Lenita Maria Rafael Bonasorte",
     "ASSISTENTE": "Bruna Nalin Orsi"
   },
   {
     "JUIZ": "RENATA CAROLINA CARBONE STAMPONI",
-    "SECRETARIO": "André Luis de Oliveira Leme",
+    "SECRETÁRIO": "André Luis de Oliveira Leme",
     "ASSISTENTE": "Elizabeth Maria Luvizutti Martins Pompeo"
   },
   {
     "JUIZ": "LUÍS AUGUSTO FORTUNA",
-    "SECRETARIO": "Marcio Ricardo dos Santos",
+    "SECRETÁRIO": "Marcio Ricardo dos Santos",
     "ASSISTENTE": "Danilo de Assumpcao Pereira da Silva"
   },
   {
     "JUIZ": "RAFAEL MARQUES DE SETTA",
-    "SECRETARIO": "Oto Henrique Pintiaski de Campos",
+    "SECRETÁRIO": "Oto Henrique Pintiaski de Campos",
     "ASSISTENTE": "Dislaine Marostica Araujo"
   },
   {
     "JUIZ": "EDMA ALVES MOREIRA",
-    "SECRETARIO": "Melissa de Franceschi Mourão",
+    "SECRETÁRIO": "Melissa de Franceschi Mourão",
     "ASSISTENTE": "Larissa Solino de Souza"
   },
   {
-    "JUIZ": "LUCAS CILLI HORTA",
-    "SECRETARIO": "Ailton Januário Junior",
-    "ASSISTENTE": "Thamires Norte Natario"
+    "JUIZ": "RENATO FERREIRA FRANCO",
+    "SECRETÁRIO": "Ailton Januário Junior",
+    "ASSISTENTE": "Monica Garcia de Oliveira"
   },
   {
     "JUIZ": "LUCINEIDE ALMEIDA DE LIMA MARQUES",
-    "SECRETARIO": "Regina Marcia Manchine Guelfi",
+    "SECRETÁRIO": "Regina Marcia Manchine Guelfi",
     "ASSISTENTE": "Fabricio Ramos da Freiria"
   },
   {
     "JUIZ": "JOSE AUGUSTO DE ALMEIDA PRADO FERREIRA DE CASTILHO",
-    "SECRETARIO": "Aline Simões Rosa Ferrari",
+    "SECRETÁRIO": "Aline Simões Rosa Ferrari",
     "ASSISTENTE": "Fernanda Crepaldi Brandao Spadotti"
   },
   {
     "JUIZ": "ERIKA RODRIGUES PEDREUS MORETE",
-    "SECRETARIO": "Jordana Maria Saggioro Marasato",
+    "SECRETÁRIO": "Jordana Maria Saggioro Marasato",
     "ASSISTENTE": "Sergio José Perez"
   },
   {
     "JUIZ": "EDSON DA SILVA JUNIOR",
-    "SECRETARIO": "Rodrigo Coelho Moraes dos Santos",
+    "SECRETÁRIO": "Rodrigo Coelho Moraes dos Santos",
     "ASSISTENTE": "Viviane Amorim Cintra Ferreira Petitti"
   },
   {
     "JUIZ": "JULIO CESAR MARIN DO CARMO",
-    "SECRETARIO": "Adriana de Souza Gomes",
+    "SECRETÁRIO": "Adriana de Souza Gomes",
     "ASSISTENTE": "Natalie de Bastiani Conte"
   },
   {
     "JUIZ": "ALEXANDRE GARCIA MULLER",
-    "SECRETARIO": "Divania da Costa Alvares",
+    "SECRETÁRIO": "Divania da Costa Alvares",
     "ASSISTENTE": "Simone Feitosa Canata"
   },
   {
     "JUIZ": "FLAVIO HENRIQUE GARCIA COELHO",
-    "SECRETARIO": "Edison Carlos Quirino",
+    "SECRETÁRIO": "Edison Carlos Quirino",
     "ASSISTENTE": "Maria Cristina Lima de Mori"
   },
   {
     "JUIZ": "MARIANGELA FONSECA",
-    "SECRETARIO": "Rosangela Macedo Capatto",
+    "SECRETÁRIO": "Rosangela Macedo Capatto",
     "ASSISTENTE": "Raissa Fabris de Souza Zimmermann"
   },
   {
     "JUIZ": "PAULO BUENO CORDEIRO ALMEIDA PRADO BAUER",
-    "SECRETARIO": "Cintia Silviane Bueno de Moraes Barbosa",
+    "SECRETÁRIO": "Cintia Silviane Bueno de Moraes Barbosa",
     "ASSISTENTE": "Fernanda Leal Silva Pinho"
   },
   {
     "JUIZ": "ANDERSON RELVA ROSA",
-    "SECRETARIO": "Renata de Freitas Oliveira Nascimento",
+    "SECRETÁRIO": "Renata de Freitas Oliveira Nascimento",
     "ASSISTENTE": "Fabiana Teixeira Martins"
   },
   {
-    "JUIZ": "RENATO FERREIRA FRANCO",
-    "SECRETARIO": "",
-    "ASSISTENTE": "Monica Garcia de Oliveira"
-  },
-  {
     "JUIZ": "ELISE GASPAROTTO DE LIMA",
-    "SECRETARIO": "",
+    "SECRETÁRIO": "Michelle Aparecida Pereira",
     "ASSISTENTE": "Rayane Meneguelli Alhadas"
   },
   {
     "JUIZ": "POLYANNA SAMPAIO CANDIDO DA SILVA SANTOS",
-    "SECRETARIO": "Raphael Hidalgo Canuto de Barros",
+    "SECRETÁRIO": "Raphael Hidalgo Canuto de Barros",
     "ASSISTENTE": "Gustavo Hussar Ramalheiro"
   },
   {
     "JUIZ": "APARECIDO BATISTA DE OLIVEIRA",
-    "SECRETARIO": "Sandra Regina da Conceição",
+    "SECRETÁRIO": "Sandra Regina da Conceição",
     "ASSISTENTE": "Daniela Domingues da Silva Lopes"
   },
   {
     "JUIZ": "CLEVERSON OLIVEIRA ALARCON LIMA",
-    "SECRETARIO": "",
+    "SECRETÁRIO": "––",
     "ASSISTENTE": "Elizabeth Correa de Lima"
   },
   {
     "JUIZ": "FERNANDA CONSTANTINO DE CAMPOS",
-    "SECRETARIO": "",
+    "SECRETÁRIO": "––",
     "ASSISTENTE": "Lais Maria Baccili Carrere Chierentin"
   },
   {
     "JUIZ": "GUILHERME BASSETTO PETEK",
-    "SECRETARIO": "",
+    "SECRETÁRIO": "––",
     "ASSISTENTE": "Joao Walter Ribeiro Correa Junior"
   },
   {
     "JUIZ": "ANDRÉ LUIZ ALVES",
-    "SECRETARIO": "Cristiano Campelo Abade",
+    "SECRETÁRIO": "Cristiano Campelo Abade",
     "ASSISTENTE": "Miriam Augusto da Silva Bautz"
   },
   {
     "JUIZ": "VANESSA CRISTINA PEREIRA SALOMAO",
-    "SECRETARIO": "Camila Santana Araujo Mutti",
+    "SECRETÁRIO": "Camila Santana Araujo Mutti",
     "ASSISTENTE": "Mariana Fiamenghi Misse Isaac"
   },
   {
     "JUIZ": "RENAN MARTINS LOPES BELUTTO",
-    "SECRETARIO": "indefinido ainda",
+    "SECRETÁRIO": "*Antonio José Ramponi",
     "ASSISTENTE": "Allan Dionisio Vieira de Oliveira"
   },
   {
     "JUIZ": "RENATO CLEMENTE PEREIRA",
-    "SECRETARIO": "indefinido ainda",
+    "SECRETÁRIO": "Debora Cardoso Galenti",
     "ASSISTENTE": "Cibely Soares Boza"
   },
   {
     "JUIZ": "LUCAS CILLI HORTA",
-    "SECRETARIO": "indefinido ainda",
+    "SECRETÁRIO": "Antonio Sergio de Souza",
     "ASSISTENTE": "Thamires Norte Natario"
   }
 ]
