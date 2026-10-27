@@ -120,6 +120,11 @@
     "ASSISTENTE": "Fabiana Teixeira Martins"
   },
   {
+    "JUIZ": "RENATO CLEMENTE PEREIRA",
+    "SECRETARIO": "Debora Cardoso Galenti",
+    "ASSISTENTE": "Cibely Soares Boza"
+  },
+  {
     "JUIZ": "ELISE GASPAROTTO DE LIMA",
     "SECRETARIO": "Michelle Aparecida Pereira",
     "ASSISTENTE": "Rayane Meneguelli Alhadas"
@@ -160,18 +165,18 @@
     "ASSISTENTE": "Mariana Fiamenghi Misse Isaac"
   },
   {
-    "JUIZ": "RENAN MARTINS LOPES BELUTTO",
-    "SECRETARIO": "*Antonio José Ramponi",
+    "JUIZ": "RENAN MARTINS LOPES BELUTTO (em APD Simetria Botucatu)",
+    "SECRETARIO": "urgências = Rodrigo; Pauta = Ramponi",
     "ASSISTENTE": "Allan Dionisio Vieira de Oliveira"
-  },
-  {
-    "JUIZ": "RENATO CLEMENTE PEREIRA",
-    "SECRETARIO": "Debora Cardoso Galenti",
-    "ASSISTENTE": "Cibely Soares Boza"
   },
   {
     "JUIZ": "LUCAS CILLI HORTA",
     "SECRETARIO": "Antonio Sergio de Souza",
     "ASSISTENTE": "Thamires Norte Natario"
+  },
+  {
+    "JUIZ": "ANDRE LUIZ MENEZES AZEVEDO SETTE",
+    "SECRETARIO": "Aguinaldo Junior Yamamoto Peres",
+    "ASSISTENTE": "Jorge Alberto Merheje Sernaglia"
   }
 ]
