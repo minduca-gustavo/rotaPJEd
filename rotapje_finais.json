@@ -1,172 +1,167 @@
 [
   {
-    "Vara": "1ª Vara do Trabalho de Bauru",
-    "Dígitos": "0,2,4,6,8",
-    "Magistrado": "RAFAEL MARQUES DE SETTA"
+    "1ª Vara do Trabalho de Bauru": "1ª Vara do Trabalho de Bauru",
+    "0,2,4,6,8": "1,3,5,7,9",
+    "BRENO ORTIZ TAVARES COSTA": "BRENO ORTIZ TAVARES COSTA"
   },
   {
-    "Vara": "1ª Vara do Trabalho de Bauru",
-    "Dígitos": "1,3,5,7,9",
-    "Magistrado": "RAFAEL MARQUES DE SETTA"
+    "1ª Vara do Trabalho de Bauru": "2ª Vara do Trabalho de Bauru",
+    "0,2,4,6,8": "0,2,4,6,8",
+    "BRENO ORTIZ TAVARES COSTA": "SANDRO VALERIO BODO"
   },
   {
-    "Vara": "2ª Vara do Trabalho de Bauru",
-    "Dígitos": "0,2,4,6,8",
-    "Magistrado": "SANDRO VALERIO BODO"
+    "1ª Vara do Trabalho de Bauru": "2ª Vara do Trabalho de Bauru",
+    "0,2,4,6,8": "1,3,5,7,9",
+    "BRENO ORTIZ TAVARES COSTA": "DANIELE COMIN MARTINS"
   },
   {
-    "Vara": "2ª Vara do Trabalho de Bauru",
-    "Dígitos": "1,3,5,7,9",
-    "Magistrado": "DANIELE COMIN MARTINS"
+    "1ª Vara do Trabalho de Bauru": "3ª Vara do Trabalho de Bauru",
+    "0,2,4,6,8": "0,2,4,6,8",
+    "BRENO ORTIZ TAVARES COSTA": "GABRIEL CALVET DE ALMEIDA"
   },
   {
-    "Vara": "3ª Vara do Trabalho de Bauru",
-    "Dígitos": "0,2,4,6,8",
-    "Magistrado": "GABRIEL CALVET DE ALMEIDA"
+    "1ª Vara do Trabalho de Bauru": "3ª Vara do Trabalho de Bauru",
+    "0,2,4,6,8": "1,3,5,7,9",
+    "BRENO ORTIZ TAVARES COSTA": "GABRIEL CALVET DE ALMEIDA"
   },
   {
-    "Vara": "3ª Vara do Trabalho de Bauru",
-    "Dígitos": "1,3,5,7,9",
-    "Magistrado": "GABRIEL CALVET DE ALMEIDA"
+    "1ª Vara do Trabalho de Bauru": "4ª Vara do Trabalho de Bauru",
+    "0,2,4,6,8": "0,2,4,6,8",
+    "BRENO ORTIZ TAVARES COSTA": "MARCELO SIQUEIRA DE OLIVEIRA"
   },
   {
-    "Vara": "4ª Vara do Trabalho de Bauru",
-    "Dígitos": "0,2,4,6,8",
-    "Magistrado": "MARCELO SIQUEIRA DE OLIVEIRA"
+    "1ª Vara do Trabalho de Bauru": "4ª Vara do Trabalho de Bauru",
+    "0,2,4,6,8": "1,3,5,7,9",
+    "BRENO ORTIZ TAVARES COSTA": "KARINE DA JUSTA TEIXEIRA ROCHA"
   },
   {
-    "Vara": "4ª Vara do Trabalho de Bauru",
-    "Dígitos": "1,3,5,7,9",
-    "Magistrado": "KARINE DA JUSTA TEIXEIRA ROCHA"
+    "1ª Vara do Trabalho de Bauru": "Vara do Trabalho de Botucatu",
+    "0,2,4,6,8": "0,2,4,6,8",
+    "BRENO ORTIZ TAVARES COSTA": "RENATA CAROLINA CARBONE STAMPONI"
   },
   {
-    "Vara": "Vara do Trabalho de Botucatu",
-    "Dígitos": "0,2,4,6,8",
-    "Magistrado": "RENATA CAROLINA CARBONE STAMPONI"
+    "1ª Vara do Trabalho de Bauru": "Vara do Trabalho de Botucatu",
+    "0,2,4,6,8": "1,3,5,7,9",
+    "BRENO ORTIZ TAVARES COSTA": "LUIS AUGUSTO FORTUNA"
   },
   {
-    "Vara": "Vara do Trabalho de Botucatu",
-    "Dígitos": "1,3,5,7,9",
-    "Magistrado": "LUIS AUGUSTO FORTUNA"
+    "1ª Vara do Trabalho de Bauru": "Vara do Trabalho de Itápolis",
+    "0,2,4,6,8": "0,2,4,6,8",
+    "BRENO ORTIZ TAVARES COSTA": "RENATO FERREIRA FRANCO"
   },
   {
-    "Vara": "Vara do Trabalho de Itápolis",
-    "Dígitos": "0,2,4,6,8",
-    "Magistrado": "RENATO FERREIRA FRANCO"
+    "1ª Vara do Trabalho de Bauru": "Vara do Trabalho de Itápolis",
+    "0,2,4,6,8": "1,3,5,7,9",
+    "BRENO ORTIZ TAVARES COSTA": "EDMA ALVES MOREIRA"
   },
   {
-    "Vara": "Vara do Trabalho de Itápolis",
-    "Dígitos": "1,3,5,7,9",
-    "Magistrado": "RENATO FERREIRA FRANCO"
+    "1ª Vara do Trabalho de Bauru": "Vara do Trabalho de Avaré",
+    "0,2,4,6,8": "0,2,4,6,8",
+    "BRENO ORTIZ TAVARES COSTA": "ZILAH RAMIRES FERREIRA"
   },
   {
-    "Vara": "Vara do Trabalho de Avaré",
-    "Dígitos": "0,2,4,6,8",
-    "Magistrado": "ZILAH RAMIRES FERREIRA"
+    "1ª Vara do Trabalho de Bauru": "Vara do Trabalho de Avaré",
+    "0,2,4,6,8": "1,3,5,7,9",
+    "BRENO ORTIZ TAVARES COSTA": "ZILAH RAMIRES FERREIRA"
   },
   {
-    "Vara": "Vara do Trabalho de Avaré",
-    "Dígitos": "1,3,5,7,9",
-    "Magistrado": "ZILAH RAMIRES FERREIRA"
+    "1ª Vara do Trabalho de Bauru": "Vara do Trabalho de Garça",
+    "0,2,4,6,8": "0,2,4,6,8",
+    "BRENO ORTIZ TAVARES COSTA": "RAFAEL MARQUES DE SETTA"
   },
   {
-    "Vara": "Vara do Trabalho de Garça",
-    "Dígitos": "0,2,4,6,8",
-    "Magistrado": "RAFAEL MARQUES DE SETTA"
+    "1ª Vara do Trabalho de Bauru": "Vara do Trabalho de Garça",
+    "0,2,4,6,8": "1,3,5,7,9",
+    "BRENO ORTIZ TAVARES COSTA": "RAFAEL MARQUES DE SETTA"
   },
   {
-    "Vara": "Vara do Trabalho de Garça",
-    "Dígitos": "1,3,5,7,9",
-    "Magistrado": "RAFAEL MARQUES DE SETTA"
+    "1ª Vara do Trabalho de Bauru": "1ª Vara do Trabalho de Jaú",
+    "0,2,4,6,8": "0,2,4,6,8",
+    "BRENO ORTIZ TAVARES COSTA": "LUCINEIDE ALMEIDA DE LIMA MARQUES"
   },
   {
-    "Vara": "1ª Vara do Trabalho de Jaú",
-    "Dígitos": "0,2,4,6,8",
-    "Magistrado": "LUCINEIDE ALMEIDA DE LIMA MARQUES"
+    "1ª Vara do Trabalho de Bauru": "1ª Vara do Trabalho de Jaú",
+    "0,2,4,6,8": "1,3,5,7,9",
+    "BRENO ORTIZ TAVARES COSTA": "JOSE AUGUSTO DE ALMEIDA PRADO FERREIRA DE CASTILHO"
   },
   {
-    "Vara": "1ª Vara do Trabalho de Jaú",
-    "Dígitos": "1,3,5,7,9",
-    "Magistrado": "JOSE AUGUSTO DE ALMEIDA PRADO FERREIRA DE CASTILHO"
+    "1ª Vara do Trabalho de Bauru": "2ª Vara do Trabalho de Jaú",
+    "0,2,4,6,8": "0,2,4,6,8",
+    "BRENO ORTIZ TAVARES COSTA": "ERIKA RODRIGUES PEDREUS MORETE"
   },
   {
-    "Vara": "2ª Vara do Trabalho de Jaú",
-    "Dígitos": "0,2,4,6,8",
-    "Magistrado": "ERIKA RODRIGUES PEDREUS MORETE"
+    "1ª Vara do Trabalho de Bauru": "2ª Vara do Trabalho de Jaú",
+    "0,2,4,6,8": "1,3,5,7,9",
+    "BRENO ORTIZ TAVARES COSTA": "ERIKA RODRIGUES PEDREUS MORETE"
   },
   {
-    "Vara": "2ª Vara do Trabalho de Jaú",
-    "Dígitos": "1,3,5,7,9",
-    "Magistrado": "ERIKA RODRIGUES PEDREUS MORETE"
+    "1ª Vara do Trabalho de Bauru": "1ª Vara do Trabalho de Lençóis Paulista",
+    "0,2,4,6,8": "0,2,4,6,8",
+    "BRENO ORTIZ TAVARES COSTA": "JULIO CESAR MARIN DO CARMO"
   },
   {
-    "Vara": "1ª Vara do Trabalho de Lençóis Paulista",
-    "Dígitos": "0,2,4,6,8",
-    "Magistrado": "JULIO CESAR MARIN DO CARMO"
+    "1ª Vara do Trabalho de Bauru": "1ª Vara do Trabalho de Lençóis Paulista",
+    "0,2,4,6,8": "1,3,5,7,9",
+    "BRENO ORTIZ TAVARES COSTA": "JULIO CESAR MARIN DO CARMO"
   },
   {
-    "Vara": "1ª Vara do Trabalho de Lençóis Paulista",
-    "Dígitos": "1,3,5,7,9",
-    "Magistrado": "JULIO CESAR MARIN DO CARMO"
+    "1ª Vara do Trabalho de Bauru": "2ª Vara do Trabalho de Lençóis Paulista",
+    "0,2,4,6,8": "0,2,4,6,8",
+    "BRENO ORTIZ TAVARES COSTA": "JULIO CESAR MARIN DO CARMO"
   },
   {
-    "Vara": "2ª Vara do Trabalho de Lençóis Paulista",
-    "Dígitos": "0,2,4,6,8",
-    "Magistrado": "JULIO CESAR MARIN DO CARMO"
+    "1ª Vara do Trabalho de Bauru": "2ª Vara do Trabalho de Lençóis Paulista",
+    "0,2,4,6,8": "1,3,5,7,9",
+    "BRENO ORTIZ TAVARES COSTA": "JULIO CESAR MARIN DO CARMO"
   },
   {
-    "Vara": "2ª Vara do Trabalho de Lençóis Paulista",
-    "Dígitos": "1,3,5,7,9",
-    "Magistrado": "JULIO CESAR MARIN DO CARMO"
+    "1ª Vara do Trabalho de Bauru": "1ª Vara do Trabalho de Marília",
+    "0,2,4,6,8": "0,2,4,6,8",
+    "BRENO ORTIZ TAVARES COSTA": "FLAVIO HENRIQUE GARCIA COELHO"
   },
   {
-    "Vara": "1ª Vara do Trabalho de Marília",
-    "Dígitos": "0,2,4,6,8",
-    "Magistrado": "FLAVIO HENRIQUE GARCIA COELHO"
+    "1ª Vara do Trabalho de Bauru": "1ª Vara do Trabalho de Marília",
+    "0,2,4,6,8": "1,3,5,7,9",
+    "BRENO ORTIZ TAVARES COSTA": "FLAVIO HENRIQUE GARCIA COELHO"
   },
   {
-    "Vara": "1ª Vara do Trabalho de Marília",
-    "Dígitos": "1,3,5,7,9",
-    "Magistrado": "FLAVIO HENRIQUE GARCIA COELHO"
+    "1ª Vara do Trabalho de Bauru": "2ª Vara do Trabalho de Marília",
+    "0,2,4,6,8": "0,2,4,6,8",
+    "BRENO ORTIZ TAVARES COSTA": "FLAVIO HENRIQUE GARCIA COELHO"
   },
   {
-    "Vara": "2ª Vara do Trabalho de Marília",
-    "Dígitos": "0,2,4,6,8",
-    "Magistrado": "FLAVIO HENRIQUE GARCIA COELHO"
+    "1ª Vara do Trabalho de Bauru": "2ª Vara do Trabalho de Marília",
+    "0,2,4,6,8": "1,3,5,7,9",
+    "BRENO ORTIZ TAVARES COSTA": "FLAVIO HENRIQUE GARCIA COELHO"
   },
   {
-    "Vara": "2ª Vara do Trabalho de Marília",
-    "Dígitos": "1,3,5,7,9",
-    "Magistrado": "FLAVIO HENRIQUE GARCIA COELHO"
+    "1ª Vara do Trabalho de Bauru": "Vara do Trabalho de Ourinhos",
+    "0,2,4,6,8": "4,5,6,7,8,9,0",
+    "BRENO ORTIZ TAVARES COSTA": "MARIANGELA FONSECA"
   },
   {
-    "Vara": "Vara do Trabalho de Ourinhos",
-    "Dígitos": "4,5,6,7,8,9,0",
-    "Magistrado": "MARIANGELA FONSECA"
+    "1ª Vara do Trabalho de Bauru": "Vara do Trabalho de Ourinhos",
+    "0,2,4,6,8": "1,2,3",
+    "BRENO ORTIZ TAVARES COSTA": "RENATO CLEMENTE PEREIRA"
   },
   {
-    "Vara": "Vara do Trabalho de Ourinhos",
-    "Dígitos": "1,2,3",
-    "Magistrado": "RENATO CLEMENTE PEREIRA"
+    "1ª Vara do Trabalho de Bauru": "Vara do Trabalho de Pederneiras",
+    "0,2,4,6,8": "0,2,4,6,8",
+    "BRENO ORTIZ TAVARES COSTA": "PAULO BUENO CORDEIRO DE ALMEIDA PRADO BAUER"
   },
   {
-    "Vara": "Vara do Trabalho de Pederneiras",
-    "Dígitos": "0,2,4,6,8",
-    "Magistrado": "PAULO BUENO CORDEIRO DE ALMEIDA PRADO BAUER"
+    "1ª Vara do Trabalho de Bauru": "Vara do Trabalho de Pederneiras",
+    "0,2,4,6,8": "1,3,5,7,9",
+    "BRENO ORTIZ TAVARES COSTA": "PAULO BUENO CORDEIRO DE ALMEIDA PRADO BAUER"
   },
   {
-    "Vara": "Vara do Trabalho de Pederneiras",
-    "Dígitos": "1,3,5,7,9",
-    "Magistrado": "PAULO BUENO CORDEIRO DE ALMEIDA PRADO BAUER"
+    "1ª Vara do Trabalho de Bauru": "Vara do Trabalho de Santa Cruz do Rio Pardo",
+    "0,2,4,6,8": "4,5,6,7,8,9,0",
+    "BRENO ORTIZ TAVARES COSTA": "ANDERSON RELVA ROSA"
   },
   {
-    "Vara": "Vara do Trabalho de Santa Cruz do Rio Pardo",
-    "Dígitos": "4,5,6,7,8,9,0",
-    "Magistrado": "ANDERSON RELVA ROSA"
-  },
-  {
-    "Vara": "Vara do Trabalho de Santa Cruz do Rio Pardo",
-    "Dígitos": "1,2,3",
-    "Magistrado": "RENATO CLEMENTE PEREIRA"
+    "1ª Vara do Trabalho de Bauru": "Vara do Trabalho de Santa Cruz do Rio Pardo",
+    "0,2,4,6,8": "1,2,3",
+    "BRENO ORTIZ TAVARES COSTA": "RENATO CLEMENTE PEREIRA"
   }
 ]
